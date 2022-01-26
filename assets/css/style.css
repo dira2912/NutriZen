@@ -4,7 +4,11 @@
 
 #colorWhite li a{
     color: #F7F7F7;
+<<<<<<< HEAD
     font-size: 30px;
+=======
+    font-size: 20px;
+>>>>>>> origin/main
 }
 #colorWhite li a:hover{
     color: #CCEABB;
