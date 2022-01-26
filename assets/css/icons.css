@@ -13,7 +13,10 @@
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
+<<<<<<< HEAD
+=======
   speak: never;
+>>>>>>> origin/main
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -27,9 +30,19 @@
 
 .icon-cart:before {
   content: "\e93a";
+<<<<<<< HEAD
+  color: white;
+  font-size: 30px
 }
 .icon-user:before {
   content: "\e971";
+  color: white;
+  font-size: 30px
+=======
+}
+.icon-user:before {
+  content: "\e971";
+>>>>>>> origin/main
 }
 .icon-menu:before {
   content: "\e9bd";
