@@ -1,0 +1,21 @@
+#colorWhite{
+    color: #F7F7F7;
+}
+
+#colorWhite li a{
+    color: #F7F7F7;
+    font-size: 30px;
+}
+#colorWhite li a:hover{
+    color: #CCEABB;
+}
+
+#iconsCarrusel{
+    border-radius: 100%;
+    font-size: 40px;
+    background-color: #3F3F44;
+    padding: 10px;
+}
+#iconsCarrusel:hover{
+    color: #CCEABB;
+}
