@@ -4,14 +4,20 @@
 
 #colorWhite li a{
     color: #F7F7F7;
-<<<<<<< HEAD
-    font-size: 30px;
-=======
-    font-size: 20px;
->>>>>>> origin/main
+    font-size: 23px;
 }
 #colorWhite li a:hover{
     color: #CCEABB;
+}
+
+
+#bottomNavbar{
+    background-color: #3F3F44;
+    border: #3F3F44;
+}
+#bottomNavbar:hover{
+    background-color: #CCEABB;
+    border: #CCEABB;
 }
 
 #iconsCarrusel{
@@ -22,4 +28,81 @@
 }
 #iconsCarrusel:hover{
     color: #CCEABB;
+}
+
+#iconsModal a{
+    color: #F7F7F7;
+    font-size: 50px;
+    text-decoration: none;
+}
+#iconsModal a:hover{
+    color: #CCEABB;
+}
+
+#bottomModal{
+    background-color: #F7F7F7;
+    border: #F7F7F7;
+    color: #3F3F44;
+    font-size: 20px;
+}
+#bottomModal:hover{
+    background-color: #CCEABB;
+    border: #CCEABB;
+    color: #F7F7F7;
+}
+
+/* ///////////////////////////////////// */
+
+#bottomModalBuy{
+    background-color: #CCEABB;
+    border: #CCEABB;
+    color: #F7F7F7;
+    font-size: 20px;
+}
+#bottomModalBuy:hover{
+    background-color: #F7F7F7;
+    border: #F7F7F7;
+    color: #3F3F44;
+}
+
+#bottomModalCancel{
+    background-color: #F7F7F7;
+    border: #F7F7F7;
+    color: #3F3F44;
+    font-size: 20px;
+}
+#bottomModalCancel:hover{
+    background-color: #CCEABB;
+    border: #CCEABB;
+    color: #F7F7F7;
+}
+
+/* ////////////////// */
+
+.inputStyle{
+    background-color: #F7F7F7;
+    color: #3F3F44;
+    font-weight: bold;
+}
+
+
+a{
+    color: #F7F7F7;
+    text-decoration: none;
+}
+a:hover{
+    color: #CCEABB;
+    text-decoration: none;
+}
+
+/* Footer */
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #3F3F44;
+    color: #F7F7F7;
+    text-align: center;
+    padding-top: 20px;
 }
